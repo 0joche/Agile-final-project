@@ -1,2 +1,2 @@
-# Agile-final-project
-This repository contains my IBM Agile final project 
+# Agile-final-project-A
+This repository contains an adjustment of my IBM Agile final project 
